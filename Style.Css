@@ -122,7 +122,6 @@ nav ul a:hover {
   border-radius: 10px;
   margin: 20px 0;
 }
-
 .project {
   display: inline-block;
   width: 300px;
@@ -153,9 +152,13 @@ nav ul a:hover {
   border-radius: 10px;
   margin: 20px 0;
 }
-
+.contact h2{
+  font-weight: bolder;
+  text-align: center;
+  padding: 50px 20px;
+  margin: 20px 0;
+}
 .contact form {
-  max-width: 500px;
   margin: auto;
 }
 
@@ -168,12 +171,12 @@ nav ul a:hover {
   background: rgba(255, 255, 255, 0.2);
   color: #fff;
 }
-
-.contact button {
-  background: #222;
+#button{
+  background: #0f0c29;
   color: #fff;
-  padding: 10px 20px;
   border: none;
+  padding: 10px 20px;
+  border-radius: 50px;
   cursor: pointer;
   transition: 0.3s;
 }
