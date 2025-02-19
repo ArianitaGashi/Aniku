@@ -98,6 +98,65 @@ nav ul a:hover {
   border-radius: 10px;
   margin: 20px 0;
 }
+#about p{
+  background: #0f0c29;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  margin-bottom:10px ;
+  border-radius: 50px;
+  cursor: pointer;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+  transition: 0.3s;
+}
+#skills h2{
+  background: #0f0c29;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  margin-bottom:10px ;
+  border-radius: 50px;
+  cursor: pointer;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  transition: 0.3s;
+}
+#skills ul li{
+  background: #0f0c29;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  margin-bottom:10px ;
+  margin-left: 200px;
+  margin-right: 230px;
+  border-radius: 50px;
+  cursor: pointer;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  transition: 0.3s;
+}
+#education h2{
+  background: #0f0c29;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  margin-bottom:10px ;
+  border-radius: 50px;
+  cursor: pointer;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  transition: 0.3s;
+}
+#education ul li{
+  background: #0f0c29;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  margin-bottom:10px ;
+  margin-left: 200px;
+  margin-right: 230px;
+  border-radius: 50px;
+  cursor: pointer;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  transition: 0.3s;
+}
 .container{
   justify-content: center;
   text-align: center;
@@ -176,6 +235,7 @@ nav ul a:hover {
   color: #fff;
   border: none;
   padding: 10px 20px;
+  margin-bottom:10px ;
   border-radius: 50px;
   cursor: pointer;
   transition: 0.3s;
